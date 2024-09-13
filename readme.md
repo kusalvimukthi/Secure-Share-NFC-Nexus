@@ -17,9 +17,9 @@
 
 ---
 
-## Demo 🎥
+## Demo 🖼️
 
-![Secure Share NFC Nexus Demo](https://www.vanone.co.uk/2018/05/Cheap-Removals-to-and-from-Europe.jpg)
+![Secure Share NFC Nexus Demo](https://secureshare.novatechlane.net/storage/dashboard.png)
 
 ---
 
