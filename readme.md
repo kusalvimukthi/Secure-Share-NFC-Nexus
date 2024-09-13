@@ -19,7 +19,7 @@
 
 ## Demo 🖼️
 
-![Secure Share NFC Nexus Demo](https://secureshare.novatechlane.net/storage/dashboard.png)
+![Secure Share NFC Nexus Demo](https://secureshare.novatechlane.net/storage/dashboard123.png)
 
 ---
 
