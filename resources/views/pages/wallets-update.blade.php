@@ -31,6 +31,7 @@
                             </div>
 
                             <!-- Default Icons Wizard -->
+                            @if (Auth::user()->hasRole('customer'))
                             <div class="col-12 mb-6">
                                 <div id="wizard-validation" class="bs-stepper wizard-icons wizard-icons-example mt-2">
                                     <div class="bs-stepper-header">
@@ -212,6 +213,7 @@
                                     </div>
                                 </div>
                             </div>
+                            @endif
                             <!-- /Default Icons Wizard -->
                             @if($wallet->status)
                                 <div class="col-12 mb-6">

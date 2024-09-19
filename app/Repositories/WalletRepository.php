@@ -94,6 +94,15 @@ class WalletRepository
         $wallet = Wallet::find($id);
         $credentials = Crypt::decryptString($wallet->credentials);
         $credArray = json_decode($credentials);
+        if (Auth::user()->hasRole('admin')){
+            $wallet->editor_data = '********';
+            $wallet->note = '********';
+            foreach ($credArray as $data) {
+                $data->password = '********';
+                $data->username = '********';
+            }
+        }
+
 
         $tokenData = [
             'type' => 'secure_wallet',
