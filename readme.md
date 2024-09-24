@@ -21,7 +21,7 @@
 
 ![Secure Share NFC Nexus Demo](https://secureshare.novatechlane.net/storage/dashboard123.png)
 
-[Watch Demo Video](https://secureshare.novatechlane.net/storage/Sequoia.mp4)
+[Watch Demo Video Click Here](https://secureshare.novatechlane.net/storage/Sequoia.mp4)
 ---
 
 ## Table of Contents 📚
